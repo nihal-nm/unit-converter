@@ -5,7 +5,10 @@
     http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-
+ <properties>
+        <maven.compiler.source>31</maven.compiler.source>
+        <maven.compiler.target>31</maven.compiler.target>
+    </properties>
     <!-- tag::packaging[] -->
     <!-- tag::groupId[] -->
     <groupId>io.openliberty.guides</groupId>
