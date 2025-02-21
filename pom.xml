@@ -18,11 +18,7 @@
     <!-- end::packaging[] -->
 
     <!-- tag::modules[] -->
-    <modules>
-        <module>jar</module>
-        <module>war</module>
-        <module>ear</module>
-    </modules>
+
     <!-- end::modules[] -->
 
     <build>
